@@ -59,5 +59,7 @@ I am a results-driven software developer with over 4 years of experience working
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" />
                     </picture>
-                    </a></p>### Badges<b>My GitHub Stats</b><a
+                    </a>
+  </p>### Badges<b>My GitHub Stats</b>
+  <a
                       href="http://www.github.com/tekprodige"><img src="https://github-readme-stats.vercel.app/api?username=tekprodige&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="tekprodige's GitHub stats" /></a><a href="https://github.com/tekprodige" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tekprodige&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
